@@ -25,6 +25,8 @@ div.clear{font: 0px Arial;  line-height: 0;  height: 0;  overflow: hidden;  clea
 .RighFixItem:hover .SecDivBox{ display:block;}
 .RighFix .RighFixItem i{ color:#FFF; display: block; width: 45px; height: 45px; line-height:45px; font-size:18px; font-weight:bold; text-align:center; background: #e4e2e2; font-style:normal; cursor:pointer;}
 
+.JiaMengNow {  position: fixed;  top: 50%;  right: 5px;  margin-top: 220px;  }
+
 .Inpag.Bottom{ text-align:left;}
 .Inpag.Bottom .BottomBox{ width:1136px; margin:0 auto; padding-bottom:0px; padding-top:10px;}
 .Inpag.Bottom .BottomBody{ float:left;}
