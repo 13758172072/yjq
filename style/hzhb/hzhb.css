@@ -37,7 +37,7 @@ body{    font: normal 100% "微软雅黑", Arial, Helvetica, sans-serif;
     font-size: 16px;
     color: #333;
     font-weight: 600;
-    letter-spacing: 2px;}
+    letter-spacing: 2px;cursor: pointer}
 .sonDiv{display: block;   width: 225px;height: 140px;float: left;overflow: hidden;cursor: pointer}
 .image{width: 225px;height: 140px}
 .image:hover{transform: scale(1.2,1.2);transition: all 1s;}
